@@ -2,7 +2,7 @@
 
 **`Estudante de Ciencia da Computação`**
 
-Olá! Me chamo Marielly, sou de Goiânia. Concluí o ensino médio no SENAI, integrado com o curso de técnico em química, e estou cursando graudação em Ciência da Computação na PUC Goiás, com previsão de formatura em Dez. de 2027.
+Olá! Me chamo Marielly, sou de Goiânia, e estou cursando graduação em Ciência da Computação na PUC Goiás, com previsão de formatura em Dez. de 2027.
 <p>Atualmente estou explorando diferentes áreas da tecnologia, conectando a construção de interfaces, o design focado no usuário e a garantia de qualidade através de automações.
 
 ---
